@@ -1,7 +1,6 @@
 # 🌟 Ravula Ganesh | Crafting Scalable, High-Impact Solutions Through Code  
 
 ![Header](https://user-images.githubusercontent.com/0000000/placeholder.gif)  
-![Banner](https://user-images.githubusercontent.com/0000000/your-custom-banner.png) 
 ---
 
 ## 👋 About Me  
