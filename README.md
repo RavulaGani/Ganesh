@@ -1,50 +1,57 @@
-# 💻 Welcome to My GitHub Profile!  
+# 💻 Welcome to My GitHub Profile  
 
 ![Header](https://user-images.githubusercontent.com/0000000/placeholder.gif)  
-*(Replace with a custom banner that showcases your expertise as a developer.)*  
+*(Add a custom banner showcasing your developer skills.)*  
 
 ---
 
 ## 👋 About Me  
 
-- 🌟 **Name:** [Your Name]  
-- 🎓 **Education:** Computer Science & Engineering Student  
-- 💼 **Role:** Web Developer | Software Engineer  
-- 🚀 **Passionate About:**  
-  - Crafting scalable, efficient applications.  
-  - Developing clean, maintainable code.  
-  - Exploring cutting-edge technologies like AI and Blockchain.  
+Hi there! I’m **[Your Name]**, a **Computer Science & Engineering Student** and a passionate **Web Developer**.  
+I specialize in creating robust, scalable, and user-centric applications using modern tools and technologies.  
+
+- 🔭 **Current Focus:** Full-Stack Web Development, REST APIs, and Microservices.  
+- 🌱 **Learning:** Cloud technologies like AWS and advanced Java frameworks.  
+- 🤝 **Looking for Opportunities:** Open-source contributions, internships, and collaborative projects.  
 
 ---
 
-## 🛠️ My Technical Toolbox  
+## 🛠️ Technical Skills  
 
-### 🌐 **Programming Languages**  
-![C](https://img.icons8.com/color/48/c-programming.png)  
-![Python](https://img.icons8.com/color/48/python.png)  
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)  
-![JavaScript](https://img.icons8.com/color/48/javascript.png)  
+### 🖥️ **Programming Languages**  
+<div>
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C" width="40">
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="40">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" width="40">
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" width="40">
+</div>
 
-### 💻 **Frameworks & Libraries**  
-![Spring Boot](https://img.icons8.com/color/48/spring-logo.png)  
-![Hibernate](https://img.icons8.com/color/48/hibernate.png)  
-![Django](https://img.icons8.com/color/48/django.png)  
-![React](https://img.icons8.com/plasticine/48/react.png)  
-![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)  
+### 🛠️ **Frameworks & Libraries**  
+<div>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot" width="40">
+  <img src="https://img.icons8.com/color/48/hibernate.png" title="Hibernate" width="40">
+  <img src="https://img.icons8.com/color/48/django.png" title="Django" width="40">
+  <img src="https://img.icons8.com/plasticine/48/react.png" title="React" width="40">
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="40">
+</div>
 
-### 🗂️ **Software Design & Architecture**  
-- **MVC Architecture:** Expertise in building modular, testable, and scalable applications.  
-- **REST APIs:** Designing and implementing robust APIs with a focus on performance and security.  
+### ⚙️ **Tools & Platforms**  
+<div>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="40">
+  <img src="https://img.icons8.com/material-outlined/48/github.png" title="GitHub" width="40">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode" width="40">
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" width="40">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="40">
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" width="40">
+</div>
 
-### 🛠️ **Tools & Platforms**  
-![Git](https://img.icons8.com/color/48/git.png)  
-![GitHub](https://img.icons8.com/material-outlined/48/github.png)  
-![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
-![Postman](https://img.icons8.com/color/48/postman-api.png)  
-![IntelliJ IDEA](https://img.icons8.com/color/48/intellij-idea.png)  
-![Docker](https://img.icons8.com/color/48/docker.png)  
-![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
-![MongoDB](https://img.icons8.com/color/48/mongodb.png)  
+---
+
+## 📚 Currently Learning  
+
+- 🌟 **Java Frameworks:** Advanced Spring Boot & Hibernate.  
+- 🌐 **Cloud Platforms:** AWS, Azure.  
+- 🔗 **Emerging Tech:** Blockchain and AI applications in web development.  
 
 ---
 
@@ -60,45 +67,32 @@
 
 ## 🚀 Featured Projects  
 
-### 🌟 [**E-commerce Platform**](https://github.com/YourUsername/EcommercePlatform)  
-> **Technologies:** Java, Spring Boot, Hibernate, MySQL, React  
-> - A full-stack e-commerce platform with secure user authentication, dynamic product management, and a payment gateway.
-
-### 🌟 [**Portfolio Website**](https://github.com/YourUsername/PortfolioWebsite)  
-> **Technologies:** HTML, CSS, JavaScript, React  
-> - A responsive, modern portfolio website to showcase professional projects and skills.
-
-### 🌟 [**Real-Time Chat Application**](https://github.com/YourUsername/RealTimeChatApp)  
-> **Technologies:** Node.js, Express.js, Socket.io  
-> - A dynamic chat application with real-time messaging and group chat functionality.
-
----
-
-## 📚 Currently Learning  
-
-- Advanced Java frameworks: **Spring Boot**, **Hibernate**  
-- Building **RESTful APIs** and **Microservices**  
-- Cloud platforms: **AWS**, **Azure**  
-- Exploring AI and Blockchain applications in web development  
+| Project Name             | Description                                                                                             | Technologies                         |  
+|--------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------|  
+| **[E-commerce Platform](https://github.com/YourUsername/EcommercePlatform)** | A full-stack e-commerce platform with dynamic product management and secure payments.            | Java, Spring Boot, Hibernate, React |  
+| **[Portfolio Website](https://github.com/YourUsername/PortfolioWebsite)**   | A modern, responsive portfolio website showcasing my skills and projects.                        | HTML, CSS, JavaScript, React        |  
+| **[Real-Time Chat App](https://github.com/YourUsername/RealTimeChatApp)**   | A dynamic chat application with real-time messaging and group chat functionality.                 | Node.js, Express, Socket.io         |  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 Winner of [Hackathon Name] for building a real-time chat application.  
+- 🥇 Winner of [Hackathon Name] for building a **real-time chat application**.  
 - 📜 Certified in **Java Programming** by Oracle.  
-- 🛠️ Contributed to [Open Source Project Name] with [feature/bug fix].  
-- ⭐ Maintained a [Project Name], which is used by over **1,000 users**.  
+- 🌟 Contributed to [Open Source Project Name], improving functionality for **X+ users**.  
+- ⭐ Maintained a [Project Name], currently serving over **1,000 users**.  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.icons8.com/color/48/twitter.png)](https://twitter.com/your-profile)  
-[![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://www.instagram.com/your-profile)  
-[![Portfolio](https://img.icons8.com/ios-filled/50/portfolio.png)](https://yourportfolio.com)  
-[![Email](https://img.icons8.com/color/48/gmail.png)](mailto:youremail@example.com)  
+<div>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" width="40"></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/color/48/twitter.png" title="Twitter" width="40"></a>
+  <a href="https://www.instagram.com/your-profile"><img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram" width="40"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.icons8.com/ios-filled/50/portfolio.png" title="Portfolio" width="40"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/gmail.png" title="Email" width="40"></a>
+</div>
 
 ---
 
@@ -121,15 +115,19 @@
 
 ## 🚀 My Vision  
 
-I aspire to become a full-stack developer with expertise in crafting scalable, user-centric solutions. My long-term goal is to contribute to cutting-edge technologies like **AI** and **Blockchain** in web development.  
+I aim to become a **full-stack developer**, delivering scalable, impactful solutions while exploring innovations in **AI** and **Blockchain**.  
 
 ---
 
 ## 💡 Tip for Visitors  
 
-If you enjoy my work, consider giving my repositories a 🌟 to show your support!  
+- If you like my work, consider giving my repositories a 🌟 to show your support!  
 
 ---
 
 ### How to Use  
-Replace the placeholder links (`YourUsername`, `your-profile`, etc.) and content with your actual information. Let me know if you'd like further tweaks! 😊  
+
+- Replace placeholders like `YourUsername` and `your-profile` with your real information.  
+- Customize the text and images to reflect your style and personality.  
+
+Let me know if you need help refining further or making additional changes! 😊  
